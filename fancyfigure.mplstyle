@@ -8,7 +8,7 @@ axes.titlepad : 20
 font.size: 12
 figure.dpi: 100
 
-axes.prop_cycle: cycler('color', ['27518f', 'c45200', '4a8f27', '8F2727', '5b278f', '8f5227', '8f2752', '7f7f7f', '8f7e27', '278f8f'])
+axes.prop_cycle: cycler('color', ['4C72B0', 'DD8452', '55A868', 'C44E52', '8172B3', '937860', 'DA8BC3', '8C8C8C', 'CCB974', '64B5CD']) # sns `deep`
 axes.spines.right: False
 axes.spines.top: False
 axes.labelpad: 8
