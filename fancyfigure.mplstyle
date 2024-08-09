@@ -1,0 +1,24 @@
+axes.labelsize : 12
+lines.linewidth : 2
+lines.markersize : 10
+
+font.family: serif
+axes.titlesize : 14
+axes.titlepad : 20
+font.size: 12
+figure.dpi: 100
+
+axes.prop_cycle: cycler('color', ['27518f', 'c45200', '4a8f27', '8F2727', '5b278f', '8f5227', '8f2752', '7f7f7f', '8f7e27', '278f8f'])
+axes.spines.right: False
+axes.spines.top: False
+axes.labelpad: 8
+
+xtick.major.size: 8      
+xtick.major.width: 1     
+xtick.major.pad: 10      
+xtick.labelsize: 11
+
+ytick.major.size: 8      
+ytick.major.width: 1    
+ytick.major.pad: 5       
+ytick.labelsize: 11
